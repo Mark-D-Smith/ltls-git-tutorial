@@ -1,4 +1,5 @@
 program hello_world
+    !! prints the current date and time
     implicit none
     character(8) :: date
     character(10) :: time
